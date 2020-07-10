@@ -1,0 +1,21 @@
+Contrasts for Single Session Statistical Analysis
+Session: N-back Block
+
+T1:	0-back
+	[ 1 0 0 0 0 0 0 0 0]
+
+T2:	2-back
+	[ 1 0 0 0 0 0 0 0 0]
+
+T3:	2B_vs_0B
+	[ -1 1 0 0 0 0 0 0 0]
+
+F4:	effects of interest
+	[ 1 0 0 0 0 0 0 0 0]
+	[ 0 1 0 0 0 0 0 0 0]
+	[ 0 0 1 0 0 0 0 0 0]
+	[ 0 0 0 1 0 0 0 0 0]
+	[ 0 0 0 0 1 0 0 0 0]
+	[ 0 0 0 0 0 1 0 0 0]
+	[ 0 0 0 0 0 0 1 0 0]
+	[ 0 0 0 0 0 0 0 1 0]
